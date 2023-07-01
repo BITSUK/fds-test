@@ -1,2 +1,2 @@
-# fds-test
-Functional testing
+# Selenium Test
+Functional testing using Selenium
